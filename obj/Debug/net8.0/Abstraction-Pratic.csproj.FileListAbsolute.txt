@@ -1,0 +1,15 @@
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\bin\Debug\net8.0\Abstraction-Pratic.exe
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\bin\Debug\net8.0\Abstraction-Pratic.deps.json
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\bin\Debug\net8.0\Abstraction-Pratic.runtimeconfig.json
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\bin\Debug\net8.0\Abstraction-Pratic.dll
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\bin\Debug\net8.0\Abstraction-Pratic.pdb
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.AssemblyInfoInputs.cache
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.AssemblyInfo.cs
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.csproj.CoreCompileInputs.cache
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.sourcelink.json
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.dll
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\refint\Abstraction-Pratic.dll
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.pdb
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\Abstraction-Pratic.genruntimeconfig.cache
+C:\Users\Gamze\source\repos\Abstraction-Pratic\Abstraction-Pratic\obj\Debug\net8.0\ref\Abstraction-Pratic.dll
